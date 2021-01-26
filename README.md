@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lidor Fadida</h1>
 <h3 align="center">A passionate application developer from Israel</h3>
 
-- 🔭 I’m currently working on **CarISR - iOS/Android native**
+- 🔭 I’m currently working on **CarISR - iOS/Android native app**
 
 - 🌱 I’m currently learning **Kotlin & Swift in depth.**
 
